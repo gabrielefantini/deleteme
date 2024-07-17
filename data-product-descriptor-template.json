@@ -4,7 +4,7 @@
     "fullyQualifiedName": "urn:dpds:orm.opendatamesh:dataproducts:dpdMinimal",
     "name": "dpdMinimal",
     "version": "1.0.0",
-    "domain": "ueee",
+    "domain": "testDomain",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
