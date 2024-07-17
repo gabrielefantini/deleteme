@@ -2,7 +2,7 @@
   "dataProductDescriptor": "1.0.0",
   "info": {
     "fullyQualifiedName": "urn:dpds:orm.opendatamesh:dataproducts:dpdMinimal",
-    "name": "dpdMinimal",
+    "name": "dpdMinimal2",
     "version": "1.0.0",
     "domain": "testDomain",
     "owner": {
