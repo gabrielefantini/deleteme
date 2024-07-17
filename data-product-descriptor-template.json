@@ -2,9 +2,9 @@
   "dataProductDescriptor": "1.0.0",
   "info": {
     "fullyQualifiedName": "urn:dpds:orm.opendatamesh:dataproducts:dpdMinimal",
-    "name": "dpdMinimal2",
+    "name": "dpdMinimal",
     "version": "1.0.0",
-    "domain": "testDomain",
+    "domain": "ueee",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
