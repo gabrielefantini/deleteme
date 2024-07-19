@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:danniDanni:1",
-    "name": "danniDanni",
-    "displayName": "Danni Danni",
-    "description": "Provaaaaa",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deletemeDeleteme:1",
+    "name": "deletemeDeleteme",
+    "displayName": "Deleteme Deleteme",
+    "description": "https://github.com/gabrielefantini/deleteme",
     "version": "1.0.0",
-    "domain": "danni",
+    "domain": "Marketing11",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
