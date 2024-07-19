@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:sdfsdfsdfsdfsdf:1",
-    "name": "sdfsdfsdfsdfsdf",
-    "displayName": "sdfsdfsdfsdfsdf",
-    "description": "",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:danniDanni:1",
+    "name": "danniDanni",
+    "displayName": "Danni Danni",
+    "description": "Provaaaaa",
     "version": "1.0.0",
-    "domain": "Marketing24",
+    "domain": "danni",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
