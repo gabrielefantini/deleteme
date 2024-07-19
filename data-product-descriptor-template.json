@@ -1,10 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:orm.opendatamesh:dataproducts:dpdMinimal",
-    "name": "fdgfdgdfgdfggdfg",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testTest:1",
+    "name": "testTest",
+    "displayName": "Test Test",
+    "description": "",
     "version": "1.0.0",
-    "domain": "testDomain",
+    "domain": "Sales",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
