@@ -1,10 +1,10 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testTest:1",
-    "name": "testTest",
-    "displayName": "Test Test",
-    "description": "",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:fdgsdfgsdg:1",
+    "name": "fdgsdfgsdg",
+    "displayName": "fdgsdfgsdg",
+    "description": "dsfsdfdsf",
     "version": "1.0.0",
     "domain": "Sales",
     "owner": {
