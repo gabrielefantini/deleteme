@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.opendatamesh.dpds.DPDSSerializerTests" time="0.271" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/gabriele/Git/odm-specification-dpdescriptor-parser/target/test-classes:/home/gabriele/Git/odm-specification-dpdescriptor-parser/target/classes:/home/gabriele/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar:/home/gabriele/.m2/repository/com/networknt/json-schema-validator/1.0.72/json-schema-validator-1.0.72.jar:/home/gabriele/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/gabriele/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar:/home/gabriele/.m2/repository/com/ethlo/time/itu/1.7.0/itu-1.7.0.jar:/home/gabriele/.m2/repository/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.1/jackson-core-2.15.1.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.1/jackson-annotations-2.15.1.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.1/jackson-databind-2.15.1.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.15.1/jackson-dataformat-yaml-2.15.1.jar:/home/gabriele/.m2/repository/io/swagger/core/v3/swagger-annotations/2.2.2/swagger-annotations-2.2.2.jar:/home/gabriele/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/gabriele/.m2/repository/org/eclipse/jgit/org.eclipse.jgit/6.6.0.202305301015-r/org.eclipse.jgit-6.6.0.202305301015-r.jar:/home/gabriele/.m2/repository/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/home/gabriele/.m2/repository/org/eclipse/jgit/org.eclipse.jgit.ssh.apache/6.6.0.202305301015-r/org.eclipse.jgit.ssh.apache-6.6.0.202305301015-r.jar:/home/gabriele/.m2/repository/org/apache/sshd/sshd-osgi/2.10.0/sshd-osgi-2.10.0.jar:/home/gabriele/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.32/jcl-over-slf4j-1.7.32.jar:/home/gabriele/.m2/repository/org/apache/sshd/sshd-sftp/2.10.0/sshd-sftp-2.10.0.jar:/home/gabriele/.m2/repository/net/i2p/crypto/eddsa/0.3.0/eddsa-0.3.0.jar:/home/gabriele/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar:/home/gabriele/.m2/repository/net/bytebuddy/byte-buddy/1.12.21/byte-buddy-1.12.21.jar:/home/gabriele/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/gabriele/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar:/home/gabriele/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/gabriele/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar:/home/gabriele/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar:/home/gabriele/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar:"/>
+    <property name="java.vm.vendor" value="Ubuntu"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://ubuntu.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/gabriele/Git/odm-specification-dpdescriptor-parser/target/surefire/surefirebooter13567464479887701214.jar /home/gabriele/Git/odm-specification-dpdescriptor-parser/target/surefire 2024-07-22T14-30-54_350-jvmRun1 surefire14145159111727720830tmp surefire_015091852939498302909tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/gabriele/Git/odm-specification-dpdescriptor-parser/target/test-classes:/home/gabriele/Git/odm-specification-dpdescriptor-parser/target/classes:/home/gabriele/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar:/home/gabriele/.m2/repository/com/networknt/json-schema-validator/1.0.72/json-schema-validator-1.0.72.jar:/home/gabriele/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar:/home/gabriele/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar:/home/gabriele/.m2/repository/com/ethlo/time/itu/1.7.0/itu-1.7.0.jar:/home/gabriele/.m2/repository/org/yaml/snakeyaml/2.0/snakeyaml-2.0.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.1/jackson-core-2.15.1.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.1/jackson-annotations-2.15.1.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.1/jackson-databind-2.15.1.jar:/home/gabriele/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.15.1/jackson-dataformat-yaml-2.15.1.jar:/home/gabriele/.m2/repository/io/swagger/core/v3/swagger-annotations/2.2.2/swagger-annotations-2.2.2.jar:/home/gabriele/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/gabriele/.m2/repository/org/eclipse/jgit/org.eclipse.jgit/6.6.0.202305301015-r/org.eclipse.jgit-6.6.0.202305301015-r.jar:/home/gabriele/.m2/repository/com/googlecode/javaewah/JavaEWAH/1.2.3/JavaEWAH-1.2.3.jar:/home/gabriele/.m2/repository/org/eclipse/jgit/org.eclipse.jgit.ssh.apache/6.6.0.202305301015-r/org.eclipse.jgit.ssh.apache-6.6.0.202305301015-r.jar:/home/gabriele/.m2/repository/org/apache/sshd/sshd-osgi/2.10.0/sshd-osgi-2.10.0.jar:/home/gabriele/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.32/jcl-over-slf4j-1.7.32.jar:/home/gabriele/.m2/repository/org/apache/sshd/sshd-sftp/2.10.0/sshd-sftp-2.10.0.jar:/home/gabriele/.m2/repository/net/i2p/crypto/eddsa/0.3.0/eddsa-0.3.0.jar:/home/gabriele/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar:/home/gabriele/.m2/repository/net/bytebuddy/byte-buddy/1.12.21/byte-buddy-1.12.21.jar:/home/gabriele/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/gabriele/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter/5.8.1/junit-jupiter-5.8.1.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar:/home/gabriele/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/gabriele/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar:/home/gabriele/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.1/junit-jupiter-params-5.8.1.jar:/home/gabriele/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar:/home/gabriele/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/gabriele"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/gabriele/Git/odm-specification-dpdescriptor-parser"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/gabriele/Git/odm-specification-dpdescriptor-parser/target/surefire/surefirebooter13567464479887701214.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.23+9-post-Ubuntu-1ubuntu120.04.2"/>
+    <property name="user.name" value="gabriele"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.15.0-116-generic"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/gabriele/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.23"/>
+    <property name="user.dir" value="/home/gabriele/Git/odm-specification-dpdescriptor-parser"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Ubuntu"/>
+    <property name="java.vm.version" value="11.0.23+9-post-Ubuntu-1ubuntu120.04.2"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="parseDpdCoreCanonicalTest" classname="org.opendatamesh.dpds.DPDSSerializerTests" time="0.14"/>
+  <testcase name="parseDpdMinimalCanonicalTest" classname="org.opendatamesh.dpds.DPDSSerializerTests" time="0.129"/>
+  <testcase name="serializeEmptyFieldTest" classname="org.opendatamesh.dpds.DPDSSerializerTests" time="0.002"/>
+</testsuite>
