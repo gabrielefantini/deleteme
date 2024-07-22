@@ -15,8 +15,6 @@ jobs:
           java-version: '11'
           distribution: 'temurin'
           cache: maven
-          server-id: github # Value of the distributionManagement/repository/id field of the pom.xml
-          settings-path: ${{ github.workspace }} # location for the settings.xml file
 
       - name: Set env # Extract version and branch from tag and save them as environment variables
         run: |
