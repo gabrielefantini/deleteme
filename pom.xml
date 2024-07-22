@@ -28,7 +28,6 @@ License.
     <artifactId>ooo</artifactId>
     <name>ooo</name>
     <description>ooo</description>
-    <version>1.0.0</version>
 
     <distributionManagement>
         <repository>
