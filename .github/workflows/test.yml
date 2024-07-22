@@ -17,8 +17,25 @@ jobs:
           java-version: '11'
           distribution: 'temurin'
           cache: maven
-      - name: Update versions
-        run: mvn versions:set -DgenerateBackupPoms=false -Dproject.version=${{github.ref_name}}
+
+      - name: Get Git Tag
+        id: get_tag
+        run: |
+          TAG=$(git describe --tags --abbrev=0)
+          echo "::set-output name=tag::$TAG"
+
+      - name: Get Maven Version
+        id: get_version
+        run: |
+          VERSION=$(mvn help:evaluate -Dexpression=project.version -q -DforceStdout)
+          echo "::set-output name=version::$VERSION"
+
+      - name: Check Tag and Version Match
+        if: steps.get_tag.outputs.tag != steps.get_version.outputs.version
+        run: |
+          echo "Git tag (${{ steps.get_tag.outputs.tag }}) does not match POM version (${{ steps.get_version.outputs.version }})"
+          exit 1
+
       - name: Publish package
         run: mvn --batch-mode deploy
         env:
