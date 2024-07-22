@@ -28,6 +28,7 @@ License.
     <artifactId>ooo</artifactId>
     <name>ooo</name>
     <description>ooo</description>
+    <version>${project.version}</version>
 
     <distributionManagement>
         <repository>
