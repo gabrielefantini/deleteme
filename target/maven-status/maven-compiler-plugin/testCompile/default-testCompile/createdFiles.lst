@@ -1,0 +1,14 @@
+org/opendatamesh/dpds/utils/ResourceObjectChecker.class
+org/opendatamesh/dpds/GitServiceMock.class
+org/opendatamesh/dpds/DPDSModelTests.class
+org/opendatamesh/dpds/DPDSParserTests.class
+org/opendatamesh/dpds/utils/CustomFileUtils.class
+org/opendatamesh/dpds/utils/DPDCoreObjectChecker.class
+org/opendatamesh/dpds/utils/ResourceContentChecker.class
+org/opendatamesh/dpds/DPDSTests.class
+org/opendatamesh/dpds/DPDSSerializerTests.class
+org/opendatamesh/dpds/utils/DPDCoreContentChecker.class
+org/opendatamesh/dpds/utils/DPDSTestResources.class
+org/opendatamesh/dpds/DPDSParserLifecycleTest.class
+org/opendatamesh/dpds/DPDSParserErrorTests.class
+org/opendatamesh/dpds/DPDSParserRawContentTests.class
