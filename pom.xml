@@ -24,10 +24,10 @@ License.
 
     <url>https://github.com/gabrielefantini/deleteme</url>
 
-    <groupId>org.opendatamesh</groupId>
-    <artifactId>odm-specification-dpdescriptor-parser</artifactId>
-    <name>ODM Specification Data Product Descriptor Parser</name>
-    <description>Specification Parser for Data Product Descriptor of Open Data Mesh</description>
+    <groupId>org.ooo</groupId>
+    <artifactId>ooo</artifactId>
+    <name>ooo</name>
+    <description>ooo</description>
     <version>1.0.0</version>
 
     <distributionManagement>
