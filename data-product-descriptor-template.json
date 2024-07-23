@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deletemeDeleteme:1",
-    "name": "deletemeDeleteme",
-    "displayName": "Deleteme Deleteme",
-    "description": "https://github.com/gabrielefantini/deleteme",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dumbBlueprint:1",
+    "name": "dumbBlueprint",
+    "displayName": "Dumb Blueprint",
+    "description": "Dumb Blueprint Description",
     "version": "1.0.0",
-    "domain": "Marketing11",
+    "domain": "Dumb Domain",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }

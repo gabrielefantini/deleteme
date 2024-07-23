@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.opendatamesh.dpds.DPDSParserTests
--------------------------------------------------------------------------------
-Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.292 s - in org.opendatamesh.dpds.DPDSParserTests
