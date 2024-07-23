@@ -1,10 +1,10 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dumbBlueprint:1",
-    "name": "dumbBlueprint",
-    "displayName": "Dumb Blueprint",
-    "description": "Dumb Blueprint Description",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dumbDataProduct:1",
+    "name": "dumbDataProduct",
+    "displayName": "Dumb Data Product",
+    "description": "",
     "version": "1.0.0",
     "domain": "Dumb Domain",
     "owner": {
