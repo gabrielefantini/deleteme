@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dumbDataProduct:1",
-    "name": "dumbDataProduct",
-    "displayName": "Dumb Data Product",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dumb3:1",
+    "name": "dumb3",
+    "displayName": "Dumb3",
     "description": "",
     "version": "1.0.0",
-    "domain": "Dumb Domain",
+    "domain": "Transport Management",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
