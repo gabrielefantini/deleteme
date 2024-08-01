@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testDp:1",
-    "name": "testDp",
-    "displayName": "TestDP",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:sdfsadfsdfa:1",
+    "name": "sdfsadfsdfa",
+    "displayName": "sdfsadfsdfa",
     "description": "",
     "version": "1.0.0",
-    "domain": "TestDomain",
+    "domain": "Marketing24",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
