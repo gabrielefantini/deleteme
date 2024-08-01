@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:asdasdaFdsgFdsGdfGdf:1",
-    "name": "asdasdaFdsgFdsGdfGdf",
-    "displayName": "asdasda fdsg fds gdf gdf ",
-    "description": "dfgsdfgdfgdfg",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testDp:1",
+    "name": "testDp",
+    "displayName": "TestDP",
+    "description": "",
     "version": "1.0.0",
-    "domain": "sdfsvxv ",
+    "domain": "TestDomain",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
