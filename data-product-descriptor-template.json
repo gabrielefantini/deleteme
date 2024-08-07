@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:sdfsdfsd:1",
-    "name": "sdfsdfsd",
-    "displayName": "sdfsdfsd",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dsfsdfsdfdsf:1",
+    "name": "dsfsdfsdfdsf",
+    "displayName": "dsfsdfsdfdsf",
     "description": "",
     "version": "1.0.0",
-    "domain": "Marketing26",
+    "domain": "Marketing22",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
