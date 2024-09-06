@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:dumbBlueprint:1",
-    "name": "dumbBlueprint",
-    "displayName": "Dumb Blueprint",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deleteme:1",
+    "name": "deleteme",
+    "displayName": "deleteme",
     "description": "",
     "version": "1.0.0",
-    "domain": "Marketing24",
+    "domain": "Marketing22",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
