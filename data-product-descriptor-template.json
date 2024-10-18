@@ -3,10 +3,10 @@
   "info": {
     "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deleteme2:1",
     "name": "deleteme2",
-    "displayName": "deleteme2",
+    "displayName": "Deleteme2",
     "description": "",
     "version": "1.0.0",
-    "domain": "Marketing24",
+    "domain": "Marketing26",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
