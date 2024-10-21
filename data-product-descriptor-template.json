@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:booh",
-    "name": "booh",
-    "displayName": "booh",
+    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:provass:1",
+    "name": "provass",
+    "displayName": "provass",
     "description": "",
     "version": "1.0.0",
-    "domain": "Marketing31",
+    "domain": "booh",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
