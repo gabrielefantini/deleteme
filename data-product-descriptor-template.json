@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:booooh:1",
-    "name": "booooh",
-    "displayName": "Booooh",
+    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:booh",
+    "name": "booh",
+    "displayName": "Booh",
     "description": "",
     "version": "1.0.0",
-    "domain": "Marketing23",
+    "domain": "Marketing2",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
