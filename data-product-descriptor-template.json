@@ -1,9 +1,9 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:piorrr:1",
-    "name": "piorrr",
-    "displayName": "Piorrr",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:piooor:1",
+    "name": "piooor",
+    "displayName": "Piooor",
     "description": "",
     "version": "1.0.0",
     "domain": "prova",
