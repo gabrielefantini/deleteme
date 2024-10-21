@@ -1,9 +1,9 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:provass:1",
-    "name": "provass",
-    "displayName": "provass",
+    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:pirlo:1",
+    "name": "pirlo",
+    "displayName": "Pirlo",
     "description": "",
     "version": "1.0.0",
     "domain": "booh",
