@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:pirlo:1",
-    "name": "pirlo",
-    "displayName": "Pirlo",
+    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:provaaas",
+    "name": "provaaas",
+    "displayName": "Provaaas",
     "description": "",
     "version": "1.0.0",
-    "domain": "booh",
+    "domain": "prova",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
