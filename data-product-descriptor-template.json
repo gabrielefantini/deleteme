@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:piorr2Dfsfsdc:1",
-    "name": "piorr2Dfsfsdc",
-    "displayName": "Piorr2dfsfsdc",
+    "fullyQualifiedName": "urn:org.opendatamesh:dataproducts:provasssss:1",
+    "name": "provasssss",
+    "displayName": "provasssss",
     "description": "",
     "version": "1.0.0",
-    "domain": "Marketing25",
+    "domain": "Marketing26",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
