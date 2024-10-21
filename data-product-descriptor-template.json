@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:piooor:1",
-    "name": "piooor",
-    "displayName": "Piooor",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:piorr2Dfsfsdc:1",
+    "name": "piorr2Dfsfsdc",
+    "displayName": "Piorr2dfsfsdc",
     "description": "",
     "version": "1.0.0",
-    "domain": "prova",
+    "domain": "Marketing25",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
