@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:org:opendatamesh:dataproducts:prova:1",
-    "name": "prova",
-    "displayName": "Prova",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testDp:1",
+    "name": "testDp",
+    "displayName": "TestDP",
     "description": "",
     "version": "1.0.0",
-    "domain": "prova",
+    "domain": "test",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
