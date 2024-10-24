@@ -1,9 +1,9 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testDp:1",
-    "name": "testDp",
-    "displayName": "TestDP",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testDataProduct:1",
+    "name": "testDataProduct",
+    "displayName": "TestDataProduct",
     "description": "",
     "version": "1.0.0",
     "domain": "test",
