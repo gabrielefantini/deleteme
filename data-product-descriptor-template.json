@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:testDataProduct:1",
-    "name": "testDataProduct",
-    "displayName": "TestDataProduct",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deleteme:1",
+    "name": "deleteme",
+    "displayName": "Deleteme",
     "description": "",
     "version": "1.0.0",
-    "domain": "test",
+    "domain": "prova",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
