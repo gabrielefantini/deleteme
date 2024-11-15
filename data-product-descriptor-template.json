@@ -1,12 +1,12 @@
 {
   "dataProductDescriptor": "1.0.0",
   "info": {
-    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deleteme:1",
-    "name": "deleteme",
-    "displayName": "Deleteme",
+    "fullyQualifiedName": "urn:dpds:blindata:dataproducts:deletemeeeees:1",
+    "name": "deletemeeeees",
+    "displayName": "deletemeeeees",
     "description": "",
     "version": "1.0.0",
-    "domain": "prova",
+    "domain": "Marketing24",
     "owner": {
       "id": "john.doe@company-xyz.com"
     }
